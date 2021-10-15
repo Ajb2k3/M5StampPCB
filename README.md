@@ -1,2 +1,3 @@
 # M5StampPCB
-A Multi Use pcbs for the M5Stamp
+A Multi Use pcb for the M5Stamp
+Can be used as a base for a Bala, Sumobot, signal control.
